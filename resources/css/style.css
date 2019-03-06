@@ -1,0 +1,42 @@
+html,body{
+	height: 100%;
+	width:100%;
+}
+
+
+
+.next{
+	font-size: 3vw;
+	text-align: center;
+	color: white;
+	margin-top: -10vw;
+	margin-left:65vw;
+}
+
+.button{
+	font-size: 3vw;
+	color: white;
+	margin-top: -10vw;
+	margin-right: 73vw;
+	text-align: center;
+}
+.go{
+	font-size: 3vw;
+	color: white;
+	margin-top: -10vw;
+	margin-left: 10vw;
+}
+
+.leftblood{
+	height: 15vw; 
+	width: 15vw; 
+	margin-left: 8vw; 
+	margin-top: -12vw;
+}
+
+.rightblood{
+	height: 15vw; 
+	width: 15vw; 
+	margin-left: 79vw; 
+	margin-top: 5vw
+}
